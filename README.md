@@ -15,7 +15,7 @@
 
 ![Natalia-SB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-SB&show_icons=true&rank_icon=github&theme=tokyonight)
 
-![Snake animation](https://github.com/Natalia-SB/)
+![snake gif](https://github.com/Natalia-SB/Natalia-SB/blob/output/cobrinha.svg)
 
 
 <!--
