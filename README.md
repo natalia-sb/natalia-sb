@@ -14,6 +14,10 @@
 ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ![Natalia-SB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Natalia-SB&show_icons=true&rank_icon=github&theme=tokyonight)
+
+![Snake animation](https://github.com/Natalia-SB/)
+
+
 <!--
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Natalia-SB&layout=compact)
