@@ -25,7 +25,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Natalia-SB&bg_color=0&color=bb5fdd&line=44288a&point=6196a8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![snake gif](https://github.com/Natalia-SB/Natalia-SB/blob/output/cobrinha.svg)
+![snake gif](https://github.com/Natalia-SB/Natalia-SB/blob/main/cobrinha.svg)
 
 
 <!--
