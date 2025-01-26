@@ -4,7 +4,7 @@
 <h2 align="center"><p>
     <a href="https://www.linkedin.com/in/batistanatalia/">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
-    <a href="mailto:natalia.batista@dcomp.ufs.br">
+    <a href="mailto:natalia.s.batista.98@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
 </p></h2>
 
